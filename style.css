@@ -53,3 +53,9 @@ button {
     color: white;
     margin: 0;
 }
+
+button:active {
+    width: 108px;
+    height: 44px;
+    font-size: 34px;
+}
