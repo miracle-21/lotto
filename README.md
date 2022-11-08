@@ -33,3 +33,11 @@
 >- for문으로는 6개 미만의 수가 반환되는걸 방지하기 위해 else문 추가.
 >
 >- while문으로는 배열 요소의 갯수가 6개가 될 때까지 값을 반환해서 따로 else문을 추가할 필요가 없음.
+
+### 결과
+![](https://velog.velcdn.com/images/miracle-21/post/da91b273-f69d-4a20-b222-7c1ef95b0e27/image.gif)
+
+
+### 참조
+[인프런 - 입문자를 위한 자바스크립트 기초 강의](https://www.inflearn.com/course/%EC%9E%85%EB%AC%B8%EC%9E%90-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EA%B8%B0%EC%B4%88%EA%B0%95%EC%9D%98)
+
